@@ -1,0 +1,22 @@
+.coinFlip{
+    display: grid;
+    grid-template-rows: 100px 300px;
+    grid-template-columns: 35%;
+    justify-content: center;
+    justify-items: center;
+}
+
+.coinFlipButton{
+    width: 20rem;
+    height: 3rem;
+    border-radius: 10px;
+    font-size: large;
+    background-color:#7857A3;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
+.faceCounter{
+    font-size: 2rem;
+    text-align: center;
+}
